@@ -1,3 +1,13 @@
 body {
-  background-color: deepskyblue;
+  background-color: greenyellow;
+}
+
+article {
+  border: 5px;
+  padding: 50px;
+}
+
+.job1 {
+  background-color: red;
+  border: 5px;
 }
