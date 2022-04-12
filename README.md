@@ -2,9 +2,9 @@
 
 ## Get Started
 - [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) this repo into `~/workspace/foundations/inclass/`
-- Make setup branch with `index.html, main.css, main.js` files
-- Change background color of `index.html` 
-- Add a console log in `main.js`
+- Make setup branch with `index.html, main.css, main.js` files ***
+- Change background color of `index.html` ***
+- Add a console log in `main.js` ***
 - TEST YOUR CODE, then Push to GitHub, create a PR, and merge to main
 
 ## The Task
